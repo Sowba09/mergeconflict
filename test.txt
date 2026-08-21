@@ -1,1 +1,1 @@
-city:Thanjavur
+city:Bangalore
